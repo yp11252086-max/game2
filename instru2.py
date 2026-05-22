@@ -6,7 +6,7 @@ GRID_SIZE = 10
 NUM_MINES = 15
 
 # --- PAGE SETUP ---
-st.set_page_config(page_title="Streamlit Minesweeper", page_icon="💣", layout="centered")
+st.set_page_config(page_title="Streamlit Minesweeper by CRYSTAL", page_icon="💣", layout="centered")
 
 # --- HTML/CSS CUSTOMIZATION FOR MOBILE & DESKTOP ---
 st.markdown(
