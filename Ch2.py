@@ -61,7 +61,7 @@ st.markdown("""
     <div class="instructions-box">
         <div class="instructions-title">How to Play / 遊戲玩法</div>
         <p style="color: #555; margin: 0; font-size: 0.95rem; line-height: 1.5;">
-            歡迎來到 Crystal 的粉藍棋藝室！🌸 <br>
+            歡迎來到 Crystal 的 CHESS Page！<br>
             • 點擊棋子可以選取它（會變紅色背景），接著點擊目標格子即可移動。<br>
             • 遊戲遵循標準國際象棋規則，由<b>白方先動</b>。<br>
             • 如果想重新開始，點擊棋盤下方的 <b>Reset Game</b> 按鈕即可。
